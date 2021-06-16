@@ -8,7 +8,7 @@ public class Contador{
 
 	//Constructor con parametros
 	public Contador(int numero){
-		System.out.println("Ejercicio 1.");
+		System.out.println("\nEjercicio 1.");
 		this.numero = numero;
 		incremento(numero);
 		decremento(numero);

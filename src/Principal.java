@@ -3,8 +3,10 @@ import src.*;
 
 public class Principal{
 
-	//Metodo mian
+	//Metodo main
 	public static void main(String[] args){
+
+		System.out.println("Ejercicio 8, crear a la clase principal.\n");
 
 		//Instanciamos un objeto(crear objeto nuevo)
 		//De la clase Contador
