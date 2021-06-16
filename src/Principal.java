@@ -11,5 +11,8 @@ public class Principal{
 		Contador contador = new Contador(10);
 		//De la clase Cuadrado
 		Cuadrado cuadrado = new Cuadrado(5);
+
+		//De la clase circulo
+		Circulo circulo = new Circulo(5);
 	}
 }
