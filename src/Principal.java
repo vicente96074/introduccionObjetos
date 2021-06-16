@@ -18,5 +18,11 @@ public class Principal{
 
 		//De la clase Rectangulo
 		Rectangulo rectangulo = new Rectangulo(4,3);
+
+		//De la clase ContadorUno
+		ContadorUno contadorUno = new ContadorUno(10);
+		
+		//De la clase libro
+		Libro libro = new Libro(false, "Lord of the rings", 12345);	
 	}
 }
