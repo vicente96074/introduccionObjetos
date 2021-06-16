@@ -24,5 +24,8 @@ public class Principal{
 		
 		//De la clase libro
 		Libro libro = new Libro(false, "Lord of the rings", 12345);	
+
+		//De la clase fraccion
+		Fraccion fraccion = new Fraccion(5.2,3.4,8.1,7.0);
 	}
 }
